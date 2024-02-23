@@ -1,1 +1,9 @@
-/*  hice el juego con electron js pero seria solo para windows  */
+/*  hice el juego con electron js pero seria solo para windows  
+primero se tendria que abrir la terminal e inicializar con npm i y dar enter,
+luego escribir en la terminal npm run dist para que se haga el instalador del juego (despues de instalarse ir a la carpeta descargada abrirla
+e ir a la carpeta dist alli se encontrara el archivo exe a ejecutar , de otra forma seria en vez de npm run dist copiar npm start
+esto iniciara una ventana la cual sera del juego pero no se hara el icono en escritorio.
+
+
+
+*/
